@@ -1,0 +1,64 @@
+.body {
+   width: 100%;
+}
+
+.con {
+   font-size: 50px;
+   font-weight: 900;
+   margin: 0px;
+   padding: 0px;
+   font-family: sans-serif;
+}
+
+.ahead {
+   color: rgb(0, 34, 255);
+}
+
+.ft {
+   font-size: 1.1rem;
+   text-align: justify;
+}
+
+
+.fm {
+   height: 60px; 
+   border-radius: 30px;
+}
+
+.tm {
+   color: white;
+}
+
+.sm {
+   font-size: 1.5rem;
+   text-align: center;
+   width: 100%;
+   padding-top: 20px;
+}
+
+.mil {
+   color: blue;
+}
+
+.grey {
+   width: 100%;
+}
+
+.num {
+   width: 30px;
+   height: 30px;
+   border-radius: 15px;
+   color: white;
+   background-color: blue;
+   text-align: center;
+}
+
+.foot {
+   border-left: 2px solid lightgrey;
+}
+
+.ft1 {
+   font-size: 1.5rem;
+}
+
+

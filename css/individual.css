@@ -1,0 +1,58 @@
+.boby {
+    width: 100%;
+}
+
+.ge {
+    font-size: 2.4rem;
+    font-weight: bolder;
+}
+
+.be {
+    color: blue;
+}
+
+.free {
+    border-radius: 30px;
+}
+
+.book {
+    font-size: 2rem;
+    font-weight: bolder;
+}
+
+.second {
+    margin-top: 100px;
+}
+
+.un {
+    height: 400px;
+    margin-top: 100px;
+}
+
+.bg {
+    font-size: 3rem;
+    margin-top: 100px;
+    margin-left: 50px;
+    color: white;
+}
+
+.bg1 {
+    border-radius: 30px;
+    background-color: white;
+    color: black;
+    margin-left: 50px;
+}
+
+
+.ea {
+    font-size: 2.3rem;
+    font-weight: bolder;
+ }
+
+ .ahead {
+    color: blue;
+ }
+
+ .font {
+    font-size: 1.6rem;
+ }
